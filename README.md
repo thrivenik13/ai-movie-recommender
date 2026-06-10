@@ -1,2 +1,5 @@
-# ai-movie-recommender
-A simple AI-powered movie recommendation system built using Python and Machine Learning.
+ai-movie-recommender/
+│
+├── README.md
+├── movies.csv
+└── recommender
